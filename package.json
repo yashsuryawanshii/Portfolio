@@ -1,0 +1,16 @@
+{
+  "name": "yash-final-portfolio",
+  "version": "1.0.0",
+  "description": "This is a personal portfolio ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./deploy"
+  },
+  "author": "Yash Suryawanshi",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.30.0",
+    "parcel": "^2.8.3",
+    "scrollreveal": "^4.0.9"
+  }
+}
